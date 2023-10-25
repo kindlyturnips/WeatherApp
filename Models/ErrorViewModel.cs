@@ -1,3 +1,5 @@
+using Newtonsoft.Json;
+
 namespace WeatherApp.Models;
 
 public class ErrorViewModel
